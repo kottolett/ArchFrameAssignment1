@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="oblig1_s315278:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>oblig1_s315278</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="oblig1_s315278-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="oblig1_s315278:war exploded" />
+    </root>
+  </artifact>
+</component>
